@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691935119632",
+    "project_id": "quana-test-project",
+    "storage_bucket": "quana-test-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691935119632:android:5cd83c4d3cfaa13e91bd95",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691935119632-8jhdvq9t7kn5uutfarel9gr30us3a4fg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesomeproject",
+            "certificate_hash": "b9b452990a0affb2b9bb52855c870c1951317c09"
+          }
+        },
+        {
+          "client_id": "691935119632-sre85mioc3bchkhjian9d7tpjludujnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiKBFzU1bUf-J7UkqMhx9NVLY2p51HqS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691935119632-sre85mioc3bchkhjian9d7tpjludujnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
